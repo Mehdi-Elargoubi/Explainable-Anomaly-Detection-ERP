@@ -8,7 +8,7 @@
 
 ## 📄 Article Preview
 <p align="center">
-  <img src="./assets/article-preview.png" alt="Article Preview Mockup" width="600">
+  <img src="./assets/article-preview.jpg" alt="Article Preview Mockup" width="600">
   <br>
   <i>Conceptual mockup of the research article.</i>
 </p>
