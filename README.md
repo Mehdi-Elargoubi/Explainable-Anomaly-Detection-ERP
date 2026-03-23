@@ -100,22 +100,22 @@ To ensure every alert is an **actionable insight**, the study highlights:
 ## 📚 References
 Exhaustive list of scientific papers cited in this study:
 
-1. **Wang, N., Zhang, X., Li, S., & Gao, X. (2025)**. Applications of artificial intelligence in enterprise human resource management. *Information Resources Management Journal*, 38(1), 1–19.
-2. **Saha, S., & Goel, P. (2023)**. Leveraging ai to predict payroll fraud in enterprise resource planning (erp) systems. *International Journal of Information Management*, 73.
-3. **Ravichandran, S., Krishnan, R., & Balaji, M**. Ai-powered payroll fraud detection: Enhancing financial security in hr systems. *Journal of Financial Crime*, 31(2).
-4. **Islam, S. R., Eberle, W., Ghafoor, S. K., & Ahmed, M. (2021)**. Explainable artificial intelligence approaches: A survey. *IEEE Access*, 9, 124000–124035.
-5. **Schmid, S., Assent, I., & Müller, E. (2023)**. Anomaly explanation: A survey. *ACM Computing Surveys*, 55(7), 1–38.
-6. **Li, Z., Zhu, J., & van Leeuwen, M. (2023)**. A survey on explainable anomaly detection. *ACM Transactions on Knowledge Discovery from Data*, 17(3), 1–41.
-7. **Jamithireddy, N. H. (2023)**. Driven anomaly detection and root cause analysis in sap erp using hybrid neural-symbolic systems. *Procedia Computer Science*, 219, 481–490.
-8. **Milojković, N., Kljajić, M., & Dakić, B. (2025)**. Z-score and validoai: An explainable ai framework for payroll analytics with statistical anomaly detection in smes. *Expert Systems with Applications*, 238.
-9. **Kwon, Y., Moon, D., Oh, Y., & Yoon, H. (2025)**. Logicqa: Logical anomaly detection with vision-language model generated questions. *Pattern Recognition*, 151.
-10. **Kumar, N., Sharma, V., & Sharma, A. (2025)**. Artificial intelligence in fraud prevention: Techniques, applications, challenges and opportunities. *Journal of Big Data*, 12(4).
-11. **Tritscher, J., Keller, F., & Müller, E. (2023)**. Feature relevance xai in anomaly detection: Reviewing approaches and challenges. *Data Mining and Knowledge Discovery*, 37, 1–35.
-12. **Mohammad, A. J. (2021)**. Ai-augmented time theft detection system. *International Journal of Advanced Computer Science and Applications*, 12(6), 98–107.
-13. **Yepmo, V., Ndiaye, L., & Dipanda, A. (2022)**. Anomaly explanation: A review. *Artificial Intelligence Review*, 55, 4567–4602.
-14. **Botana, I. L., Pau, R., & Domingo-Ferrer, J. (2022)**. Explanation method for anomaly detection on mixed numerical and categorical spaces. *Information Sciences*, 585, 1–18.
-15. **Gummadi, A. N., Kumar, P., & Patra, S. R. (2024)**. Xai-iot: An explainable ai framework for enhancing anomaly detection in iot systems. *Future Generation Computer Science*, 148, 178–191.
-16. **Bello, O. A., & Olufemi, K. (2024)**. Artificial intelligence in fraud prevention: Applications, challenges and future directions. *Journal of Information Security and Applications*, 76.
+1. **Wang, N., Zhang, X., Li, S., & Gao, X. (2025)**. Applications of artificial intelligence in enterprise human resource management. *Information Resources Management Journal*.
+2. **Saha, S., & Goel, P. (2023)**. Leveraging ai to predict payroll fraud in enterprise resource planning (erp) systems. *International Journal of Information Management*.
+3. **Ravichandran, S., Krishnan, R., & Balaji, M**. Ai-powered payroll fraud detection: Enhancing financial security in hr systems. *Journal of Financial Crime*.
+4. **Islam, S. R., Eberle, W., Ghafoor, S. K., & Ahmed, M. (2021)**. Explainable artificial intelligence approaches: A survey. *IEEE Access*.
+5. **Schmid, S., Assent, I., & Müller, E. (2023)**. Anomaly explanation: A survey. *ACM Computing Surveys*.
+6. **Li, Z., Zhu, J., & van Leeuwen, M. (2023)**. A survey on explainable anomaly detection. *ACM Transactions on Knowledge Discovery from Data*.
+7. **Jamithireddy, N. H. (2023)**. Driven anomaly detection and root cause analysis in sap erp using hybrid neural-symbolic systems. *Procedia Computer Science*.
+8. **Milojković, N., Kljajić, M., & Dakić, B. (2025)**. Z-score and validoai: An explainable ai framework for payroll analytics with statistical anomaly detection in smes. *Expert Systems with Applications*.
+9. **Kwon, Y., Moon, D., Oh, Y., & Yoon, H. (2025)**. Logicqa: Logical anomaly detection with vision-language model generated questions. *Pattern Recognition*.
+10. **Kumar, N., Sharma, V., & Sharma, A. (2025)**. Artificial intelligence in fraud prevention: Techniques, applications, challenges and opportunities. *Journal of Big Data*.
+11. **Tritscher, J., Keller, F., & Müller, E. (2023)**. Feature relevance xai in anomaly detection: Reviewing approaches and challenges. *Data Mining and Knowledge Discovery*.
+12. **Mohammad, A. J. (2021)**. Ai-augmented time theft detection system. *International Journal of Advanced Computer Science and Applications*.
+13. **Yepmo, V., Ndiaye, L., & Dipanda, A. (2022)**. Anomaly explanation: A review. *Artificial Intelligence Review*.
+14. **Botana, I. L., Pau, R., & Domingo-Ferrer, J. (2022)**. Explanation method for anomaly detection on mixed numerical and categorical spaces. *Information Sciences*.
+15. **Gummadi, A. N., Kumar, P., & Patra, S. R. (2024)**. Xai-iot: An explainable ai framework for enhancing anomaly detection in iot systems. *Future Generation Computer Science*.
+16. **Bello, O. A., & Olufemi, K. (2024)**. Artificial intelligence in fraud prevention: Applications, challenges and future directions. *Journal of Information Security and Applications*.
 
 ---
 
