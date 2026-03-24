@@ -8,7 +8,7 @@
 
 ## 📄 Article Preview
 <p align="center">
-  <img src="./assets/article-preview.jpg" alt="Article Preview Mockup" width="600">
+  <img src="./assets/article-preview-en.jpg" alt="Article Preview Mockup" width="600">
   <br>
   <i>Conceptual mockup of the research article.</i>
 </p>
@@ -121,7 +121,7 @@ Exhaustive list of scientific papers cited in this study:
 
 ## 📥 Download
 > [!TIP]
-> **[Download the Full Article (PDF)](Explainable_Anomaly_Detection_ERP.pdf)**
+> **[Download the Full Article (PDF)](Explainable_Anomaly_Detection_ERP.pdf)** | **[Read English Version (Markdown)](Explainable_Anomaly_Detection_ERP_EN.md)**
 
 ---
 <p align="center">
